@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+.productos{
+    font-family:'Roboto', sans-serif;
+}
+.card-body h5 {
+    font-weight: 500;
+    font-size: 20pt;
+    color: #000000;
+}
+.card-body p {
+    font-weight: 300;
+    font-size: 16pt;
+    color:#707070;
+}
+.vinculo p{
+    font-weight: 300;
+    font-size: 13pt;
+    color:#707070;
+}
+
+
